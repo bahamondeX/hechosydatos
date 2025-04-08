@@ -1,0 +1,46 @@
+{
+  "devices": [
+    {
+      "address": "A6F2B464-487A-E2EB-3385-43E9311030DE",
+      "name": null,
+      "timestamp": 1743989405.953697
+    },
+    {
+      "address": "19CD3E86-C64D-956C-E39B-5F7CB1241461",
+      "name": null,
+      "timestamp": 1743989405.953667
+    },
+    {
+      "address": "A3BFC86F-C699-A41B-7E78-7D16D36CFA58",
+      "name": "Dormitorio",
+      "timestamp": 1743989405.953619
+    },
+    {
+      "address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+      "name": "[TV] Samsung AU7090 50 TV",
+      "timestamp": 1743989405.953724
+    },
+    {
+      "address": "1A2DE25B-6C9C-58C7-BF75-4E08FA6E1D02",
+      "name": "[LG] webOS TV UP7760PSB",
+      "timestamp": 1743989405.953429
+    },
+    {
+      "address": "AFDF99AA-8854-D116-67A9-6EC8EE0B0E51",
+      "name": null,
+      "timestamp": 1743989405.953746
+    },
+    {
+      "address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+      "name": "Oscar\u2019s iPhone",
+      "timestamp": 1743989405.953644
+    },
+    {
+      "address": "2F93CBFB-E8E9-6580-41ED-9265899E4649",
+      "name": null,
+      "timestamp": 1743989405.953586
+    }
+  ],
+  "elapsed_time": 30.260569095611572,
+  "timestamp": "2025-04-06T20:30:05.954065"
+}

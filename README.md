@@ -1,5 +1,7 @@
 # Informe Técnico: Sistema Electrónico de Monitoreo No Autorizado
 
+[Lugar de los Hechos](/pictures/8.png)
+
 ## Resumen Ejecutivo
 
 El presente documento detalla las especificaciones técnicas de un presunto sistema de acoso electrónico que utiliza tecnología BCI (Brain-Computer Interface) para capturar, procesar y transmitir patrones neuronales del habla sin consentimiento. El sistema combina elementos de electrofisiología, procesamiento de señales y comunicaciones inalámbricas para monitorear la actividad neuronal asociada con el habla.

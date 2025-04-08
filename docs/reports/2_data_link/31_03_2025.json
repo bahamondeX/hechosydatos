@@ -1,0 +1,41 @@
+{
+  "devices": [
+    {
+      "address": "E8542E4A-1222-1CB4-7DA3-F2262427B033",
+      "name": null,
+      "timestamp": 1743440742.09821
+    },
+    {
+      "address": "352BE685-1A60-C4C9-B143-E8BB0B9432F4",
+      "name": null,
+      "timestamp": 1743440742.098487
+    },
+    {
+      "address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+      "name": "[TV] Samsung AU7090 50 TV",
+      "timestamp": 1743440742.098368
+    },
+    {
+      "address": "10282A5B-3173-4EAE-1EB6-16A20E82E113",
+      "name": "[LG] webOS TV UN7100PSA",
+      "timestamp": 1743440742.098239
+    },
+    {
+      "address": "1E5D03B1-D8D6-0980-F570-3E247E3D4EE3",
+      "name": null,
+      "timestamp": 1743440742.097161
+    },
+    {
+      "address": "85FEF683-3B1F-82C4-11A9-5203F8984118",
+      "name": null,
+      "timestamp": 1743440742.098422
+    },
+    {
+      "address": "1A2DE25B-6C9C-58C7-BF75-4E08FA6E1D02",
+      "name": "[LG] webOS TV UP7760PSB",
+      "timestamp": 1743440742.098121
+    }
+  ],
+  "elapsed_time": 30.118474006652832,
+  "timestamp": "2025-03-31T12:05:42.098900"
+}

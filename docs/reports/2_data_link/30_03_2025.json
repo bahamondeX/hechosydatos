@@ -1,0 +1,6929 @@
+{
+	"devices": [
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743325117.097755
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329778.249951
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329657.989813
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327643.288872
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325297.542721
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323282.495084
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323162.212895
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329748.190131
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327613.217887
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326139.654066
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329146.791394
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326500.553556
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326440.403866
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325508.083581
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327402.738352
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324365.186934
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324635.863864
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324756.162913
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325147.171937
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329056.580547
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323823.834167
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323523.082683
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323192.288485
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327793.634489
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327011.775958
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327673.347749
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329387.359451
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325117.097796
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324214.827364
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323402.785712
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324305.046725
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328124.393515
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325959.214241
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324575.71269
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327132.093887
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323883.987563
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327823.705365
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326801.289037
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329357.289075
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743327132.094039
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326891.507747
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326590.753726
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326981.719699
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327553.062775
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327763.557102
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328665.666296
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324996.797165
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743328124.393616
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326951.639206
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329237.015061
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324094.524567
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743327432.797065
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323523.082203
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324545.637675
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329176.864982
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325959.214354
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325478.004887
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329327.240929
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324004.290343
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329838.373278
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327522.992766
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325929.138841
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328906.217547
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326620.833596
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327102.012487
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323222.362883
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743329206.938313
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327522.994102
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328244.685289
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323402.785651
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325026.87383
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329928.572167
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328515.311572
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326049.430614
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326290.036834
+		},
+		{
+			"name": null,
+			"address": "E39FAA24-1D5E-94CB-5432-B2A392CFE3FE",
+			"timestamp": 1743325899.060983
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324605.789188
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329267.088366
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329657.98998
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326801.28952
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324274.970387
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743323673.449209
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328996.43311
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324064.446602
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743327883.854986
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329868.448208
+		},
+		{
+			"name": null,
+			"address": "5973457A-70D7-3C42-B8B7-ABF36AC1BE6A",
+			"timestamp": 1743329748.190074
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324846.397127
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323883.987731
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323372.710794
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323553.159467
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325237.40659
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325478.00483
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325117.097268
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323312.570959
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325989.280336
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325628.391423
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324305.046822
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324966.719315
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328545.392173
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326139.653983
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328274.751418
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325838.927149
+		},
+		{
+			"name": null,
+			"address": "5861C721-CC44-891C-D9FB-5C136274E5FC",
+			"timestamp": 1743326831.366266
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329597.850448
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329237.01521
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329748.189968
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324876.472999
+		},
+		{
+			"name": null,
+			"address": "3086FE2D-FEDC-29BA-5133-7D3A0FE9DD21",
+			"timestamp": 1743329176.865415
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328004.126508
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323643.376233
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326530.63145
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324395.254971
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328064.261803
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324214.827294
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743324936.638907
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327643.29009
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327282.450327
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328184.538194
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329357.28777
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743327673.348047
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328364.949856
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328545.39193
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324004.290415
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329116.723686
+		},
+		{
+			"name": null,
+			"address": "5861C721-CC44-891C-D9FB-5C136274E5FC",
+			"timestamp": 1743327372.672227
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324876.471595
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329116.723781
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325508.083511
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324786.245301
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326530.631371
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324124.603071
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328725.805352
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327883.854214
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328605.537919
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326470.474415
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324966.719248
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327793.634712
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328515.31152
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325658.476638
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329838.373195
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325838.927656
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323402.785094
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324696.004193
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325778.781118
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329116.723221
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329627.91634
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329146.791054
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325417.844332
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328485.234446
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327372.671633
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327883.855069
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326981.719628
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329447.511433
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324665.936543
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327011.776043
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328846.084632
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329176.865583
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329597.851061
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325177.253352
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327823.705692
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328154.469943
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327613.218135
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325748.704817
+		},
+		{
+			"name": null,
+			"address": "E2FE5259-AA99-14A7-AEA3-0BF0E237533F",
+			"timestamp": 1743325026.875417
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328966.36475
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328996.433219
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328515.311616
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325598.311172
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328425.098775
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323432.861177
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323613.301956
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329176.865304
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326350.183796
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323703.524706
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323823.835161
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325147.171893
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325628.391293
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743328966.365089
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323944.139678
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329627.916661
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324244.891939
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329688.055595
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326620.832608
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329688.056288
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329567.785917
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325808.853868
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323853.911065
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326290.037041
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325327.619577
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329868.448292
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325508.083201
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328455.171124
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324846.397276
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325658.476317
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327041.849042
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328665.666207
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328605.537379
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323643.375995
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327192.257272
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329026.504474
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324665.93651
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325087.025103
+		},
+		{
+			"name": null,
+			"address": "75ED05DC-AC53-89A6-E518-9E0A38052612",
+			"timestamp": 1743327943.993978
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327673.347365
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328154.469511
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324395.2554
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327733.497697
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327462.856539
+		},
+		{
+			"name": null,
+			"address": "71C61E01-42C2-9ADD-D3FD-666B40F3AB38",
+			"timestamp": 1743329146.791843
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323613.30207
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324756.163082
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328334.896661
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324425.332977
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327372.671993
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325869.001529
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326560.689104
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328395.025711
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327312.519473
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324094.524846
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329567.785751
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325357.698637
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329237.014813
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325899.060867
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328455.1722
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329688.055785
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329627.916736
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329477.586654
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329056.580713
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743325237.406625
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323883.986665
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326921.579515
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324425.333689
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324545.637533
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743328996.433272
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324515.564312
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324605.789235
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325658.476475
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325838.92783
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324605.788783
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328665.665779
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328725.804748
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326229.883519
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327402.738245
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743323703.524856
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743329146.791687
+		},
+		{
+			"name": null,
+			"address": "19907AF3-73A9-D145-B5AA-291FB6D9278C",
+			"timestamp": 1743325478.004798
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328214.614174
+		},
+		{
+			"name": "JBL PartyBox 110",
+			"address": "B45D8029-04F3-155C-6F76-9264F2A4AA31",
+			"timestamp": 1743327522.994549
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326771.210823
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323763.675156
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326049.430296
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327462.857325
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324154.676232
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327132.092417
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327462.857195
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323914.06527
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328665.666103
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329357.289476
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324485.484077
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329447.511632
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324515.564793
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743325688.554269
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326139.654144
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328214.613878
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325387.766755
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326320.107587
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323523.082871
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329778.249858
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743328906.217695
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324305.046903
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327342.591672
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323583.230109
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323763.675234
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329597.850968
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327974.062094
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325568.235913
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327583.137972
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325748.704921
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326560.687518
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329778.24997
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743324696.00382
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326921.579959
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325327.619541
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328064.26199
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328334.896684
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326109.576369
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329357.289408
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324274.96859
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327222.316648
+		},
+		{
+			"name": null,
+			"address": "2C760006-5EBE-D590-9567-2492544CF7D4",
+			"timestamp": 1743323342.642719
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328816.010249
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328425.099014
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329297.164614
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326530.631282
+		},
+		{
+			"name": null,
+			"address": "C81A5369-B80D-F953-2C34-E28A03175C77",
+			"timestamp": 1743329237.015138
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324425.333938
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324635.864949
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324395.255648
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327522.994472
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324906.559729
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325207.327826
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329537.737939
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325177.251963
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328665.666452
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328575.47005
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325598.311079
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328876.14892
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327071.928296
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327462.856988
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323823.834769
+		},
+		{
+			"name": null,
+			"address": "8D32058E-E48B-1AC4-CB24-1A6F26AF0203",
+			"timestamp": 1743327522.994623
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329808.298695
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323974.217534
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327192.257431
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743327492.927212
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328785.942917
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329597.85054
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327583.138018
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327192.257148
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327733.497809
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327132.093657
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324154.67602
+		},
+		{
+			"name": null,
+			"address": "E2FE5259-AA99-14A7-AEA3-0BF0E237533F",
+			"timestamp": 1743325598.311342
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743328906.217623
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327703.423724
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328184.538136
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324244.892689
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323853.912739
+		},
+		{
+			"name": null,
+			"address": "E39FAA24-1D5E-94CB-5432-B2A392CFE3FE",
+			"timestamp": 1743326049.430765
+		},
+		{
+			"name": null,
+			"address": "8361C405-07F3-476C-FB8B-BDA69FC07843",
+			"timestamp": 1743327583.138097
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326530.631175
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328034.197134
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324455.408835
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328455.172111
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323733.600227
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325478.00491
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324034.370194
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324274.969903
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326380.259612
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743327703.423941
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326199.805638
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323282.495206
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324665.93583
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328184.536621
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743327583.138059
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324996.797304
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323523.08313
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323763.67487
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326229.883629
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327192.257573
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324485.483978
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328094.320879
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329176.865804
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323974.217402
+		},
+		{
+			"name": null,
+			"address": "8CC72B48-0E96-2710-E05F-9685AE07BE77",
+			"timestamp": 1743326500.553942
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325598.311129
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326891.507788
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325087.025155
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323192.288048
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324004.290262
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328395.026618
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326831.366173
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328154.470033
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328124.393698
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326590.75356
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323583.229969
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324365.186502
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329838.373036
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328785.942648
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743329146.791919
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323914.065348
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323342.642344
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324214.827473
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323553.15964
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323222.362776
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325989.280432
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327132.093801
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326259.958006
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325387.766419
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327402.738317
+		},
+		{
+			"name": null,
+			"address": "8D97BF0F-0D85-4A6D-BA1A-1FBF073A3ACF",
+			"timestamp": 1743325417.845687
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324635.865073
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327252.375547
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743325056.952412
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329838.373118
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324365.186855
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324064.446456
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324756.163162
+		},
+		{
+			"name": null,
+			"address": "256CE226-E39C-B91B-8148-8F6891C56D60",
+			"timestamp": 1743323523.082972
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326199.805433
+		},
+		{
+			"name": null,
+			"address": "F4773763-CB28-511F-F43B-E8A6FE0741EB",
+			"timestamp": 1743323523.082554
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329898.517549
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326320.107207
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743328094.320963
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325598.311213
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324154.675384
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325327.617717
+		},
+		{
+			"name": null,
+			"address": "90B29E75-FC32-003C-2D28-35A753D695F6",
+			"timestamp": 1743327492.927309
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329928.572012
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329868.448251
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324244.892884
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329026.504129
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327041.848953
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323222.362866
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327312.519237
+		},
+		{
+			"name": null,
+			"address": "374CC26C-F593-CB98-554C-BEF9AAF9AB4A",
+			"timestamp": 1743324575.713125
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328214.613543
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329237.014701
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328966.363506
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326109.576428
+		},
+		{
+			"name": null,
+			"address": "5861C721-CC44-891C-D9FB-5C136274E5FC",
+			"timestamp": 1743326741.136775
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324846.397447
+		},
+		{
+			"name": null,
+			"address": "8361C405-07F3-476C-FB8B-BDA69FC07843",
+			"timestamp": 1743327462.857651
+		},
+		{
+			"name": null,
+			"address": "19907AF3-73A9-D145-B5AA-291FB6D9278C",
+			"timestamp": 1743325417.845647
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326139.653873
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325237.406508
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325447.923515
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326981.719667
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324064.446285
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324756.163002
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325267.469577
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325568.236008
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324425.333526
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329718.128819
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324906.557985
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325447.923623
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328154.469837
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325959.214044
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325688.554229
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326650.913319
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324395.255817
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326861.443746
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743327643.290023
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328755.8723
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328274.751887
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324154.676316
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327522.994388
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327342.59352
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324365.187002
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328755.87214
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326831.364603
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328996.431964
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323673.44917
+		},
+		{
+			"name": null,
+			"address": "8361C405-07F3-476C-FB8B-BDA69FC07843",
+			"timestamp": 1743327492.927387
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326470.474507
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324154.676142
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324936.63875
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325718.632799
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326169.730491
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326440.404006
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743327613.218057
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327703.423979
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327974.062151
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327372.672154
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328575.468633
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324305.047054
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328906.216001
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324094.524753
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329748.189857
+		},
+		{
+			"name": null,
+			"address": "C57D8826-2C48-D4B2-ADAD-303F85EA15AB",
+			"timestamp": 1743324214.827521
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329387.359666
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743325207.329177
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325508.083626
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328124.393775
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329327.240854
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324605.788946
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325207.328283
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328124.392983
+		},
+		{
+			"name": null,
+			"address": "C57D8826-2C48-D4B2-ADAD-303F85EA15AB",
+			"timestamp": 1743324365.186755
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326741.136622
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323132.146414
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327853.774502
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324635.86501
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326831.366222
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326410.335645
+		},
+		{
+			"name": null,
+			"address": "2C760006-5EBE-D590-9567-2492544CF7D4",
+			"timestamp": 1743323402.785805
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326951.640799
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327943.993821
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323462.933798
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326019.356207
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325056.9523
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329056.580402
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326350.183699
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325658.47656
+		},
+		{
+			"name": null,
+			"address": "3A7CE9B1-A571-8BEC-AB4F-BD43BB411FDA",
+			"timestamp": 1743329537.737993
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743327823.705805
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326109.576251
+		},
+		{
+			"name": "JBL PartyBox 110",
+			"address": "B45D8029-04F3-155C-6F76-9264F2A4AA31",
+			"timestamp": 1743329206.938091
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324004.289041
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329417.436023
+		},
+		{
+			"name": null,
+			"address": "3A7CE9B1-A571-8BEC-AB4F-BD43BB411FDA",
+			"timestamp": 1743329507.663928
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323643.375783
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326320.107789
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323974.216764
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743327823.705772
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329808.299186
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324786.245626
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326650.913257
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328304.825861
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328936.289247
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328725.805266
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327853.773009
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326410.335606
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743329627.916507
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329206.938005
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329146.791993
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326741.136703
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328725.805427
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323342.642753
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326891.5062
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327102.014477
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329868.447909
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328154.470117
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323613.302237
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328064.261924
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328274.751687
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329056.578697
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326771.21188
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328334.896175
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325056.950831
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323252.412814
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328876.149507
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324726.085445
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743324124.603233
+		},
+		{
+			"name": null,
+			"address": "DF57A0E0-3D6F-3CA2-A0BA-B129006D08F1",
+			"timestamp": 1743325989.280472
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329657.989906
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329597.850324
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325989.280217
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329688.054995
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324726.08553
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324335.118407
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329507.66349
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325026.875378
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325297.542626
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325538.160253
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326139.653186
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327583.137917
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323583.230149
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324124.602988
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325327.619644
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323643.375904
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325417.845769
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327162.17504
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324876.473082
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324154.676467
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743329267.088514
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324094.525072
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325808.853787
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328515.309991
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324936.638419
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324726.085614
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325087.025
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323763.675072
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328214.613998
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324816.325276
+		},
+		{
+			"name": null,
+			"address": "E2FE5259-AA99-14A7-AEA3-0BF0E237533F",
+			"timestamp": 1743325658.476599
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328936.289891
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325087.025214
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323673.449127
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327673.347875
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328425.098939
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327583.137796
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327041.849091
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327883.852307
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324485.483056
+		},
+		{
+			"name": null,
+			"address": "0DB7280F-A207-E175-A9AC-3AA6E73AB341",
+			"timestamp": 1743325718.632843
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329026.504584
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328364.949951
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324545.637917
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329026.504758
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329507.663773
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325899.060928
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323162.212808
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327071.928564
+		},
+		{
+			"name": null,
+			"address": "8F4C5929-9625-5B06-72AF-3CD03DA1E532",
+			"timestamp": 1743329267.088679
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329928.571921
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323402.785762
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323462.934047
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743328004.126999
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324335.119079
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324395.255491
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325658.475182
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327613.217977
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323793.750229
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326951.640631
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325929.139272
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329567.785804
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325688.554041
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327763.558653
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324846.395957
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323763.674521
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743325267.469825
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324515.564662
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327011.775704
+		},
+		{
+			"name": null,
+			"address": "19907AF3-73A9-D145-B5AA-291FB6D9278C",
+			"timestamp": 1743325387.766829
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329267.088281
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329808.299297
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326711.060517
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743327793.63454
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328846.084316
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324034.370517
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329146.791509
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324154.676393
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323974.215969
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325177.253398
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329327.240605
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329537.737964
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325387.766587
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325267.468383
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329507.663155
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329026.504673
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326560.689006
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326380.259316
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323974.217236
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324816.32473
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324274.970066
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329237.0149
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323793.749381
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323823.835002
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329537.737883
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328725.805182
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329297.166095
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324696.003579
+		},
+		{
+			"name": null,
+			"address": "8D97BF0F-0D85-4A6D-BA1A-1FBF073A3ACF",
+			"timestamp": 1743325598.311307
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327402.737377
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323613.302157
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326921.580019
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324004.289985
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328214.614092
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324365.187065
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323342.642571
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327613.216448
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329267.088756
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323853.91229
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324485.484163
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325056.952335
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325297.542192
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328695.739404
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323914.063955
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324876.472735
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328635.607349
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325357.700014
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325778.781427
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329297.166171
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329056.580634
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323553.159558
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328274.751848
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326259.958179
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324665.936436
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324605.787857
+		},
+		{
+			"name": null,
+			"address": "256CE226-E39C-B91B-8148-8F6891C56D60",
+			"timestamp": 1743323462.934145
+		},
+		{
+			"name": null,
+			"address": "B748C730-3300-C257-BF26-B70CFE446500",
+			"timestamp": 1743325538.162077
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329206.93824
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326290.036954
+		},
+		{
+			"name": null,
+			"address": "8D32058E-E48B-1AC4-CB24-1A6F26AF0203",
+			"timestamp": 1743327613.218334
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326951.640753
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325207.328164
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327282.450077
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327763.558761
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323312.570509
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325026.875283
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329267.088827
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326079.509145
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329838.372814
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323643.376155
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323733.5995
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323252.412704
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326019.356684
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323192.289149
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328034.196976
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323493.006768
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326711.060365
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325538.161582
+		},
+		{
+			"name": null,
+			"address": "797012FB-B56C-25E7-F684-E91F6E922E39",
+			"timestamp": 1743324425.334098
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324365.186102
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327823.70559
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326320.107701
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743327793.634679
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325899.060667
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324455.408759
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743329868.448327
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323944.138928
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329928.571382
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329176.865503
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328996.433315
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323703.524625
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329688.056364
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329748.190045
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323944.139954
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326079.510244
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325297.542545
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743327793.634645
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743328364.950053
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329477.586468
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326921.57989
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323162.212978
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323342.642684
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328184.537964
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328816.010417
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327192.256089
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329086.655669
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326620.833507
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743325327.619611
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326380.259439
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326891.50765
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327943.9939
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329778.249711
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328124.393395
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326049.429494
+		},
+		{
+			"name": null,
+			"address": "E39FAA24-1D5E-94CB-5432-B2A392CFE3FE",
+			"timestamp": 1743326019.356856
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325688.554308
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323914.065108
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326861.442335
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325087.023775
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323312.57084
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327974.061897
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743327703.423899
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326199.805516
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323192.288373
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743325538.162001
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327432.797092
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324124.602892
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328906.217343
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743327974.062269
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324816.325432
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327372.672077
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326861.443402
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327853.774673
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323643.375431
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325808.853143
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324124.603313
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326620.833646
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323372.710708
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325568.234376
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327793.634382
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323823.834918
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326199.805168
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327793.634577
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328184.538081
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326861.443553
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325899.05904
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323372.710879
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324244.892799
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327853.774621
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327553.062489
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326470.47301
+		},
+		{
+			"name": null,
+			"address": "0DB7280F-A207-E175-A9AC-3AA6E73AB341",
+			"timestamp": 1743325838.927906
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323162.213054
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328244.685687
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323793.750051
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329477.585704
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329627.916428
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324575.71125
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329267.088161
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328304.825354
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325538.161753
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328094.320769
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327673.348126
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328635.607379
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326680.985108
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324455.408931
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327102.014318
+		},
+		{
+			"name": null,
+			"address": "C4C202F7-030B-86E4-FA4F-982B8C9BE53D",
+			"timestamp": 1743327402.738411
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325147.171973
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325387.766676
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329657.989864
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325417.84555
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328364.949987
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326590.753648
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325929.139003
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323102.069969
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324575.712887
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323432.861431
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325417.845601
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328515.311411
+		},
+		{
+			"name": null,
+			"address": "256CE226-E39C-B91B-8148-8F6891C56D60",
+			"timestamp": 1743323493.006591
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325387.765046
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325628.391462
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743328846.084563
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329327.240962
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329477.586615
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324034.370286
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324816.325204
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327162.176906
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324575.713052
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326680.985159
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325718.632715
+		},
+		{
+			"name": null,
+			"address": "DD63C560-B769-EA38-6017-4815A37584D2",
+			"timestamp": 1743328004.12695
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328635.607315
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328425.098861
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323883.987243
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325147.170328
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326620.833687
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327943.993943
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743327733.497786
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327733.497734
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326680.983679
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329297.166017
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329206.937796
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328334.896705
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326831.36608
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327342.593261
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329838.372445
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326741.136542
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327553.06214
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324635.864724
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324966.719161
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324124.602106
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329718.128521
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325748.705004
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328605.537712
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328455.172175
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324696.002562
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326560.689059
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324545.636829
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329868.44815
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324064.446665
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325026.875332
+		},
+		{
+			"name": null,
+			"address": "8D97BF0F-0D85-4A6D-BA1A-1FBF073A3ACF",
+			"timestamp": 1743325447.923859
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325808.853553
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323102.067585
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743325568.23656
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323432.860631
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743328936.289807
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325417.84545
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329086.655841
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324575.712975
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324274.970312
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323613.302316
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328004.126899
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329838.372946
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323974.217621
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323102.070057
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325478.00412
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323493.006466
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329146.791767
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326771.211826
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328876.149336
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327372.671898
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328755.870814
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328755.87239
+		},
+		{
+			"name": null,
+			"address": "F6852F25-AC91-0B89-9C76-F3A4335D62BE",
+			"timestamp": 1743327793.634745
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323673.448654
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324936.637696
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327492.927267
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324184.75707
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326079.510179
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323342.642645
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324184.756779
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323673.448945
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328304.825694
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329417.435885
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328064.261962
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323252.412907
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323793.74993
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323853.912436
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323192.288637
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324094.524924
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327402.738383
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327492.927349
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743328846.084598
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328635.607113
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324996.797564
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323673.449079
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325929.139352
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325327.619384
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325778.781348
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325748.705083
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325177.253188
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327282.450235
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327252.375606
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328485.234333
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329627.916586
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329688.05591
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743323853.912604
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325056.95237
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324966.719207
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327312.519382
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328725.805075
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324094.524999
+		},
+		{
+			"name": null,
+			"address": "374CC26C-F593-CB98-554C-BEF9AAF9AB4A",
+			"timestamp": 1743324696.004122
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326470.474463
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326199.80558
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323643.376079
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327252.374402
+		},
+		{
+			"name": null,
+			"address": "43EE4571-5274-F15F-48E7-649D3218867E",
+			"timestamp": 1743328545.392091
+		},
+		{
+			"name": null,
+			"address": "C57D8826-2C48-D4B2-ADAD-303F85EA15AB",
+			"timestamp": 1743323553.15979
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324244.892545
+		},
+		{
+			"name": null,
+			"address": "8D97BF0F-0D85-4A6D-BA1A-1FBF073A3ACF",
+			"timestamp": 1743325568.235717
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326500.553704
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323462.933655
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329537.737979
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325237.406553
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324034.369426
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325989.280388
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324665.936476
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323914.064963
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327703.422825
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328575.470191
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325237.406427
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324906.559809
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327943.993077
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328034.196686
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323883.987392
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326320.107868
+		},
+		{
+			"name": null,
+			"address": "54E1825F-F42B-FB29-A223-A13159A13E2E",
+			"timestamp": 1743324244.892966
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326410.335681
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325327.619496
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329297.165934
+		},
+		{
+			"name": null,
+			"address": "374CC26C-F593-CB98-554C-BEF9AAF9AB4A",
+			"timestamp": 1743324635.865142
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325598.310965
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325207.328549
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324966.719055
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326109.574974
+		},
+		{
+			"name": null,
+			"address": "0DB7280F-A207-E175-A9AC-3AA6E73AB341",
+			"timestamp": 1743325778.781499
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326079.510117
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324455.408175
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329327.240801
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329116.723569
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328545.392212
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743324996.797484
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325778.779797
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325628.391198
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328785.942753
+		},
+		{
+			"name": null,
+			"address": "5861C721-CC44-891C-D9FB-5C136274E5FC",
+			"timestamp": 1743326771.211783
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325147.171761
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325056.952159
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326891.507512
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329778.24989
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325568.236481
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324846.397527
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326771.211734
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325869.001404
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326410.335549
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326229.883802
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328605.537825
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743328936.289967
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323402.785529
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327041.849135
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743329688.056208
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327071.928646
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327913.931656
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327913.931949
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329748.190103
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324335.118744
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327913.93191
+		},
+		{
+			"name": null,
+			"address": "19907AF3-73A9-D145-B5AA-291FB6D9278C",
+			"timestamp": 1743325447.92381
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323523.083045
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326019.356573
+		},
+		{
+			"name": null,
+			"address": "90B29E75-FC32-003C-2D28-35A753D695F6",
+			"timestamp": 1743327192.257355
+		},
+		{
+			"name": null,
+			"address": "2C760006-5EBE-D590-9567-2492544CF7D4",
+			"timestamp": 1743323462.933971
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329718.128897
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328575.47028
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329537.737816
+		},
+		{
+			"name": null,
+			"address": "BEA8BFE9-7715-5259-3FF4-03CBA346D4A3",
+			"timestamp": 1743326891.507702
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328966.365009
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329387.359293
+		},
+		{
+			"name": null,
+			"address": "2C760006-5EBE-D590-9567-2492544CF7D4",
+			"timestamp": 1743323432.861366
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326229.883716
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743327462.857413
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329086.655757
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324966.717826
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329898.5177
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323583.229707
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326380.258979
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324665.93634
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327823.70565
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329748.190185
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323132.146307
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324906.559885
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743328034.1971
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325568.236205
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327643.290061
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327402.738438
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324034.370386
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327102.014518
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329297.1658
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323493.006939
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325508.082058
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323493.006681
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325989.279041
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324786.245454
+		},
+		{
+			"name": "JBL PartyBox 110",
+			"address": "B45D8029-04F3-155C-6F76-9264F2A4AA31",
+			"timestamp": 1743329176.865732
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324305.046564
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326711.060602
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323372.710841
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323733.599849
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325959.212991
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328334.896623
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325748.704522
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328244.685753
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327102.014426
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329597.850838
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323372.710397
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328816.009799
+		},
+		{
+			"name": null,
+			"address": "90B29E75-FC32-003C-2D28-35A753D695F6",
+			"timestamp": 1743327162.177003
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324365.18662
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325267.469785
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326500.55387
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325959.214411
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327162.177044
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329898.517736
+		},
+		{
+			"name": null,
+			"address": "B748C730-3300-C257-BF26-B70CFE446500",
+			"timestamp": 1743325568.236122
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325267.469691
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329657.989945
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327162.17696
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328364.949388
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323703.524421
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323252.411952
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328635.607271
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326380.259527
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324545.637842
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324064.446535
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327673.347967
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326350.183608
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326440.404066
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329778.249913
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329808.299057
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323132.146502
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326079.510213
+		},
+		{
+			"name": null,
+			"address": "BEA8BFE9-7715-5259-3FF4-03CBA346D4A3",
+			"timestamp": 1743326711.060751
+		},
+		{
+			"name": null,
+			"address": "9F33814E-36BD-940E-29A6-654EE72EFDCA",
+			"timestamp": 1743327342.593478
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324455.4089
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326019.356937
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326650.913213
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323944.139775
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325478.004719
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328274.75176
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328304.825774
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325447.923902
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327432.797036
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324816.325367
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324214.827418
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324786.245544
+		},
+		{
+			"name": null,
+			"address": "5861C721-CC44-891C-D9FB-5C136274E5FC",
+			"timestamp": 1743327162.177084
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325838.927538
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323703.524536
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324846.397367
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327222.314877
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328545.392133
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327553.062609
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323132.145977
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329116.723868
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326711.059044
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327342.593434
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325838.927744
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327703.423809
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329357.289238
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329387.359384
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326229.883204
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743324425.334017
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323493.006847
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325117.097572
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329928.572091
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324816.325401
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328785.942836
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329357.289327
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327974.062192
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326801.28969
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743325508.083668
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325658.476428
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325297.542676
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323132.146582
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329447.511711
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323553.159344
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328395.026572
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326259.957477
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323733.600017
+		},
+		{
+			"name": null,
+			"address": "C81A5369-B80D-F953-2C34-E28A03175C77",
+			"timestamp": 1743329267.088443
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326951.640707
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328785.942318
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323222.362899
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324936.638665
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327041.847653
+		},
+		{
+			"name": null,
+			"address": "C57D8826-2C48-D4B2-ADAD-303F85EA15AB",
+			"timestamp": 1743324034.370465
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327252.375413
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327613.217764
+		},
+		{
+			"name": null,
+			"address": "C81A5369-B80D-F953-2C34-E28A03175C77",
+			"timestamp": 1743329417.436374
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329688.056115
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743327222.316558
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325688.554135
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324635.864862
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743327643.290139
+		},
+		{
+			"name": null,
+			"address": "DD63C560-B769-EA38-6017-4815A37584D2",
+			"timestamp": 1743327733.497854
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324335.118997
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743328876.149425
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324485.484248
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324214.827498
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323793.750302
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743324605.789292
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324996.796471
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323252.412508
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324906.559643
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326049.430693
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743324214.827448
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325688.552127
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328605.538003
+		},
+		{
+			"name": null,
+			"address": "75360D64-F2E3-4D27-9CA1-C9B9BA3CC487",
+			"timestamp": 1743325417.845727
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323883.987483
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323102.070109
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328244.685723
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324696.003898
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324515.564731
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328425.097224
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328665.666375
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326290.03712
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326530.630806
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324455.40896
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326440.404113
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328485.234621
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323673.449023
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325357.699888
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325718.631132
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329718.128967
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325538.161925
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327252.375654
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326049.430517
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327222.316368
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325177.253302
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329417.436091
+		},
+		{
+			"name": null,
+			"address": "DD63C560-B769-EA38-6017-4815A37584D2",
+			"timestamp": 1743327883.854889
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328695.739746
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326350.183443
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324876.473162
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326650.913289
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324004.290157
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324876.472908
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326259.957886
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323222.362844
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327553.062697
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327071.926889
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743324906.559957
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325688.554184
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325869.001069
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327583.136039
+		},
+		{
+			"name": null,
+			"address": "D309D81E-3AFD-4FED-8919-2392A16CADBA",
+			"timestamp": 1743329898.51776
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325447.923738
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323432.861087
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326741.136391
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329237.014374
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323823.835278
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328695.739947
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326801.289612
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324274.970238
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329627.916226
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323132.146662
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325117.097663
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323282.494915
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323162.212687
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324696.003977
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328395.026481
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324726.085349
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326981.719685
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326771.211604
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323763.674982
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327492.925704
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328876.149235
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327432.797119
+		},
+		{
+			"name": null,
+			"address": "5973457A-70D7-3C42-B8B7-ABF36AC1BE6A",
+			"timestamp": 1743329778.249933
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329718.128933
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325026.87519
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327793.633088
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328485.234541
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329176.865659
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326560.688866
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324515.56446
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329387.359055
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328274.751806
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327432.797004
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324244.893041
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743328695.740105
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326801.289385
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329657.989727
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323733.600165
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327011.775864
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323944.139524
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325387.766901
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326861.443643
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325117.097711
+		},
+		{
+			"name": null,
+			"address": "D6EEAE42-7156-1C30-DEED-88FFE8A0A536",
+			"timestamp": 1743326290.037195
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324756.161508
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328695.740028
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743325628.391384
+		},
+		{
+			"name": null,
+			"address": "ECFEB735-ADFE-5ACE-A02D-1426695E48B8",
+			"timestamp": 1743329748.190159
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743323252.413045
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325899.060798
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324726.084359
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324936.638572
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329507.663688
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324485.483812
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324515.563393
+		},
+		{
+			"name": null,
+			"address": "E2FE5259-AA99-14A7-AEA3-0BF0E237533F",
+			"timestamp": 1743325237.406657
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326500.552292
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329808.298323
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323462.933888
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324515.564559
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326921.579992
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743324936.638829
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325869.001468
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323402.784582
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743325568.236392
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323793.750141
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324605.789128
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329567.785844
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329718.128717
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329928.571798
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327883.854635
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325808.853693
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325056.952258
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326741.134648
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328695.739857
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326470.474318
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328364.949912
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743326169.731093
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329176.865875
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326680.98498
+		},
+		{
+			"name": null,
+			"address": "8D97BF0F-0D85-4A6D-BA1A-1FBF073A3ACF",
+			"timestamp": 1743325478.004859
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327823.705731
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323853.912803
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324756.16277
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324305.046981
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324906.55949
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323282.494793
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329206.937462
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323853.912524
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323162.212344
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329417.436288
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326711.060679
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323282.494475
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325778.781261
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324094.523945
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327432.796802
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743327793.634612
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326590.752004
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743324545.637761
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743327192.257505
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328244.685616
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326981.719267
+		},
+		{
+			"name": null,
+			"address": "C4C202F7-030B-86E4-FA4F-982B8C9BE53D",
+			"timestamp": 1743327372.672299
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329627.915886
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329086.654434
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328755.872468
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328455.172149
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329267.087739
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328846.084525
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743325658.476519
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326169.73082
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328094.319265
+		},
+		{
+			"name": null,
+			"address": "5AFE2AE7-9B78-4CD7-C4CE-3C9C4C627A83",
+			"timestamp": 1743325357.700054
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323372.71064
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323553.158976
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326350.182227
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324214.826864
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323102.0702
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329477.586573
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325628.391342
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324696.003728
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329748.190012
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328936.289584
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327492.927116
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323523.082779
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329898.517806
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743326169.730926
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324184.756139
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326410.334464
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328936.289717
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324425.333862
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328425.09863
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325357.69997
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743323613.302389
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327913.931859
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329447.511544
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325869.001501
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743323703.524781
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743325267.46974
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325718.632498
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325628.390419
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328034.197058
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326169.731011
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327282.448689
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743328064.262016
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323493.006117
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743327132.093966
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326500.553792
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329718.12886
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329597.849959
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743327733.497832
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323583.230062
+		},
+		{
+			"name": null,
+			"address": "6100C23F-E4A6-94E2-CC43-27266CE1DB8E",
+			"timestamp": 1743327763.558714
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327071.928474
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743323553.159715
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325538.161844
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324064.444985
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328846.084474
+		},
+		{
+			"name": null,
+			"address": "256CE226-E39C-B91B-8148-8F6891C56D60",
+			"timestamp": 1743323583.230185
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328816.010338
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743323432.860972
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743323914.065193
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327522.99429
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324124.602759
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324726.085194
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743327432.79696
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328485.233973
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324305.045915
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327162.176781
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324395.255288
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326109.57647
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743329237.014983
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327703.423858
+		},
+		{
+			"name": "[TV] Samsung AU7090 50 TV",
+			"address": "36AAE1C2-E752-CD1D-87F0-12E54CDB15A7",
+			"timestamp": 1743323102.070157
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329808.298878
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743327312.517945
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327853.774717
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323703.524073
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328545.390506
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323312.571143
+		},
+		{
+			"name": null,
+			"address": "508F5BC3-796C-C228-9252-1207155C83FB",
+			"timestamp": 1743324996.7974
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327733.497489
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327733.497761
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326019.356773
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329267.088585
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743324184.756904
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324996.796827
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743325598.309636
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323342.642518
+		},
+		{
+			"name": null,
+			"address": "3ED97FF3-9C8F-6D8F-EDDC-08EBD304CFAE",
+			"timestamp": 1743328304.825823
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326440.402565
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743325267.469865
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323462.933316
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324274.970157
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743327974.06223
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326259.958095
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327643.290116
+		},
+		{
+			"name": "[AV] Samsung Soundbar MS6500",
+			"address": "3EEE93B5-FBEC-55AF-BC1F-6EFF5073F08F",
+			"timestamp": 1743327222.316487
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329567.785882
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327462.856872
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743323312.57106
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327011.774261
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324395.255572
+		},
+		{
+			"name": null,
+			"address": "4058E496-8F47-367A-4CFF-E481AD2C2D59",
+			"timestamp": 1743324455.408868
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329898.517783
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324425.33378
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743329417.434631
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743324786.243574
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328906.217464
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329086.655803
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329657.989321
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327763.558501
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329447.511163
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324184.756993
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743326680.985203
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743327342.593379
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743327222.316606
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743325237.40534
+		},
+		{
+			"name": null,
+			"address": "F4E791F0-34C3-D6B9-6D53-3C7680B56A5A",
+			"timestamp": 1743325207.328858
+		},
+		{
+			"name": null,
+			"address": "BAC91895-26D3-1F62-CEEE-F745564AB72F",
+			"timestamp": 1743323432.861296
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743326650.912733
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328816.010137
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743328094.320594
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743328364.95002
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323733.600097
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326590.753419
+		},
+		{
+			"name": null,
+			"address": "9C93962A-3ED5-6FA9-0D77-B06AFC8A1194",
+			"timestamp": 1743326831.366306
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329206.937912
+		},
+		{
+			"name": null,
+			"address": "30260F1E-BCBB-0F14-9BAE-001579825CDB",
+			"timestamp": 1743324034.370043
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328004.126808
+		},
+		{
+			"name": null,
+			"address": "45C2B094-FB32-04D6-B5DF-C5153997193C",
+			"timestamp": 1743329718.129001
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325929.1374
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743324335.118906
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743328545.392041
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743325447.922249
+		},
+		{
+			"name": null,
+			"address": "AAE6A62A-BE63-C66F-B410-9571F1318EE4",
+			"timestamp": 1743329146.7916
+		},
+		{
+			"name": "iPhone",
+			"address": "ADE70928-A82F-D0D9-48F0-A082C55227A3",
+			"timestamp": 1743329327.240894
+		},
+		{
+			"name": "[LG] webOS TV UP7760PSB",
+			"address": "25C68257-623E-8402-BF16-ED14B27CA494",
+			"timestamp": 1743329507.663602
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743329627.916809
+		},
+		{
+			"name": null,
+			"address": "EC4EFDA0-9234-84F5-30E9-AA6A53FF553E",
+			"timestamp": 1743324696.00405
+		},
+		{
+			"name": null,
+			"address": "C3CFED6A-72BC-2864-496C-FA89C0B67B3D",
+			"timestamp": 1743323944.139861
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743329567.785597
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743326290.036471
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743328966.364912
+		},
+		{
+			"name": null,
+			"address": "6A90DDB9-FB3C-7D5C-18DA-31579AB45204",
+			"timestamp": 1743329206.938169
+		},
+		{
+			"name": "[LG] webOS TV UN7100PSA",
+			"address": "F8EAE5A7-376C-F7BF-3735-829B72D4A411",
+			"timestamp": 1743323613.301627
+		},
+		{
+			"name": "LG OK75  (91)",
+			"address": "5A281506-AFF7-2F93-A260-4FA8DD04BDA2",
+			"timestamp": 1743324786.245705
+		},
+		{
+			"name": null,
+			"address": "90B29E75-FC32-003C-2D28-35A753D695F6",
+			"timestamp": 1743327132.094114
+		}
+	]
+}
