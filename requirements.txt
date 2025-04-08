@@ -1,0 +1,10 @@
+pyaudio
+click
+groq
+anthropic
+pydub
+matplotlib
+seaborn
+numpy
+gradio
+bleak

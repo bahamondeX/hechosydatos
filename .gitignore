@@ -1,0 +1,166 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+pythonenv*
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+jupyter_execute/
+profile_default/
+ipython_config.py
+
+# Data files
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.xz
+*.zip
+*.tar
+*.log
+*.sql
+*.sqlite
+*.db
+*.hdf5
+*.h5
+*.npy
+*.npz
+
+# Images and media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+*.psd
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.wav
+
+# Documentation
+docs/_build/
+docs/auto_examples/
+docs/generated/
+doc/_build/
+doc/auto_examples/
+doc/generated/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Code editors and IDEs
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+\#*\#
+.\#*
+*~
+.projectile
+.dir-locals.el
+
+# Results and outputs
+results/
+figures/
+outputs/
+logs/
+checkpoints/
+wandb/
+mlruns/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+config.py
+secrets.json
+credentials.yaml
+.env.local
+
+# Large files and models
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.pb
+*.onnx
+*.tflite
+*.caffemodel
+
+# Temporary files
+tmp/
+temp/
+.~lock.*
