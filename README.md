@@ -1,6 +1,6 @@
 # Informe Técnico: Sistema Electrónico de Monitoreo No Autorizado
 
-![Lugar de los Hechos](/images/8.png)
+![Lugar de los Hechos](/images/15.png)
 
 ## Resumen Ejecutivo
 
