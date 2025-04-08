@@ -59,7 +59,6 @@ ipython_config.py
 # Images and media
 *.jpg
 *.jpeg
-*.png
 *.gif
 *.tiff
 *.psd
